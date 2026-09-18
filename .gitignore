@@ -18,3 +18,7 @@ env
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+allure-report/
+allure-results/
+todolist-automationtask/allure-report/
+todolist-automationtask/allure-results/
